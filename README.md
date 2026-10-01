@@ -1,2 +1,1 @@
 I do this project to understand git and github better. Experience always makes it better.
-# first-git-project
